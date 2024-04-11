@@ -1,16 +1,16 @@
-### Hi there 👋
+### 你好 👋
 
-<!--
-**NB-XX/NB-XX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NB-XX/NB-XX** 是一个 ✨ _特别的_ ✨ 仓库，因为它的 `README.md` (这个文件) 会出现在你的GitHub个人资料上。
 
-Here are some ideas to get you started:
+这里有一些想法可以帮助你开始：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 我目前正在从事 ...你猜
+- 🌱 我目前正在学习 ...没学
+- 👯 我希望能在 ...躺平摆烂 上进行合作
+- 🤔 我正在寻求 ...一夜暴富 方面的帮助
+- 💬 询问我关于 ...我也不说
+- 📫 如何联系我: ...个人隐私
+- 😄 代词: ...喂
+- ⚡ 有趣的事实: ...Readme是Chatpgt帮我写的
+
+[还有其他的废话吗？-这里有](https://nbxx.pages.dev/)
