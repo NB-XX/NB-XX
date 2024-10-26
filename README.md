@@ -3,4 +3,5 @@
 > [!TIP]
 > Talk is cheap. Show me the code.
 
-[NBXX的博客](https://nbxx.pages.dev/)
+> [!WARNING]
+> 我的英文不好。
